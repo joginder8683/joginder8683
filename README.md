@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently learning Big Data. <br>Ask me about Python, Django, REST, CI/CD<br>I think, I am funny.
+
+software developer with 8+ year experiance, proficient in Python, Django, REST API design, and machine learning. Skilled in database management (MySQL, Elasticsearch, MongoDB) and DevOps practices (Terraform, Puppet) within AWS. Experienced in CI/CD pipelines for seamless deployment. Committed to scalable solutions and continuous learning.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
